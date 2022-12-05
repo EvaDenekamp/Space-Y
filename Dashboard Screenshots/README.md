@@ -1,1 +1,1 @@
-Screenshots of the dashboard
+# Screenshots of the dashboard
