@@ -1,2 +1,2 @@
 # Space-Y
-Applied Data Science Capstone project
+This GitHub repository is created for the Applied Data Science Capstone project.
